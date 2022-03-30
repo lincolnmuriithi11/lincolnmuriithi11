@@ -1,4 +1,4 @@
-# Hi Im Lincoln 👊
+# Hi!!! I'm Lincoln 👊
 
 **👨‍💻lincolnmuriithi11/lincolnmuriithi11👨‍💻**  Data Scientist
 🧠Im a student
