@@ -10,6 +10,12 @@
   ˃_ Command Line
   📉 Tableau
   ✨ Spark
-  
+  🐼 Pandas 
+  📈 Matplotlib 
+  📊 Seaborn 
+  🤖 Machine Learning  
+  📚 Natural Language Processing 
+  💥 Apache Spark 
+  🔥 Data Storytelling 
 - 😄 Pronouns: He/ Him 
 
